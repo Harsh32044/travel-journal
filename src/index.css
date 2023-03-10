@@ -26,8 +26,8 @@ hr {
 }
 
 .placesImage {
-  max-width: 20%;
-  max-height: 30%;
+  width: 15%;
+  max-height: 25%;
   border-radius: 5px;
 }
 
